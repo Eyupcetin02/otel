@@ -1,0 +1,42 @@
+.parentDiv{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.container{
+    width: 60%;
+    background-color: #ccc;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.toinformDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.toinformDiv h3{
+    margin-left: 185px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.topDiv{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.bottomDiv{
+    display: flex;
+}
+
+
+select{
+    background-color: #ccc;
+
+}
